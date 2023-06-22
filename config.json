@@ -1,0 +1,10 @@
+{
+  "SeletorPrincipal": "#main > div._2gzeB > div > div._5kRIK > div.n5hs2j7m.oq31bsqd.gx1rr48f.qh5tioqs",
+  "SeletorLinhasMensagem": "//div[@role='row']",
+  "SeletorMensagem": ".//span[contains(@class, 'selectable-text')]",
+  "SeletorDivIdMensagem": ".//div[contains(@class, 'hY_ET')]",
+  "NumeroDoBOT": "",
+  "OpenAPIApiKey": "",
+  "SeletorCaixaDeTexto": "",
+  "SeletorBotaoEnviarTexto": ""
+}
